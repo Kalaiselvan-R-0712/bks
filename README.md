@@ -1,2 +1,2 @@
 # bks
-Bank Solutions
+Banking Solutions
